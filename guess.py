@@ -7,7 +7,6 @@ tries = 1
 print("Welcome to Guess the Number")
 print("===========================")
 print("I've thought of a number between 1 to 100. Try to guess it in as few tries as possible.")
-print(number)
 
 guess = int(input("Your guess:\t"))
 
